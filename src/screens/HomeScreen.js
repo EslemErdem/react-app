@@ -20,6 +20,9 @@ onPress={()=>navigation.navigate("Box")}
 <Button title="Color Change Screen"
 onPress={()=>navigation.navigate("Color Change Screen")}
 />
+<Button title="Password Screen"
+onPress={()=>navigation.navigate("Password Screen")}
+/>
 </View>
   );
 }
